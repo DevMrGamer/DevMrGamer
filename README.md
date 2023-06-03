@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DevMrGamer
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Lua
+- 📫 Reach me on Discord. My Id is MrGamer#6500
